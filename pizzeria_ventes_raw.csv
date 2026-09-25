@@ -1,0 +1,300 @@
+﻿order_id,order_date,order_time,customer_id,neighborhood,channel,payment_method,promotion,pizza_id,pizza_name,pizza_category,size_cm,dough_type,quantity,unit_price_eur,line_total_eur
+CMD0032,2026-01-01,12:45,CLI029,Centre-ville,Sur place,Titres restaurant,Aucune,P002,Orientale,Viande,30,Épaisse,1,16.88,16.88
+CMD0032,2026-01-01,12:45,CLI029,Centre-ville,Sur place,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,50,Épaisse,1,24.15,24.15
+CMD0010,2026-01-01,20:30,CLI063,Les Halles,Sur place,Espèces,-20%,P004,Reine,Classique,40,Épaisse,1,20.4,16.32
+CMD0019,2026-01-02,18:00,CLI010,Les Halles,À emporter,Titres restaurant,Aucune,P004,Reine,Classique,20,Classique,1,12.0,12.0
+CMD0019,2026-01-02,18:00,CLI010,Les Halles,À emporter,Titres restaurant,Aucune,P005,4 Fromages,Fromage,30,Sans gluten,1,19.05,19.05
+CMD0019,2026-01-02,18:00,CLI010,Les Halles,À emporter,Titres restaurant,Aucune,P001,Margherita,Classique,30,Fine,2,12.83,25.66
+CMD0008,2026-01-02,21:00,CLI069,Les Halles,Livraison,Titres restaurant,Aucune,P008,Chèvre-Miel,Sucré-salé,10,Fine,1,9.95,9.95
+CMD0140,2026-01-03,14:15,CLI009,Centre-ville,Sur place,Carte bancaire,Aucune,P001,Margherita,Classique,20,Classique,1,9.5,9.5
+CMD0139,2026-01-03,15:45,CLI070,Gare,À emporter,Espèces,-20%,P003,Hawaienne,Sucré-salé,20,Épaisse,1,11.5,9.2
+CMD0139,2026-01-03,15:45,CLI070,Gare,À emporter,Espèces,-20%,P002,Orientale,Viande,10,Fine,1,8.75,7.0
+CMD0166,2026-01-03,16:00,CLI022,Gare,Livraison,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,30,Sans gluten,1,17.53,17.53
+CMD0166,2026-01-03,16:00,CLI022,Gare,Livraison,Titres restaurant,Aucune,P007,Pepperoni,Viande,30,Classique,1,16.7,16.7
+CMD0114,2026-01-04,12:00,CLI083,Zone résidentielle,Livraison,Espèces,-10%,P001,Margherita,Classique,30,Fine,1,13.33,12.0
+CMD0052,2026-01-06,13:45,CLI067,Zone résidentielle,Livraison,Espèces,Aucune,P008,Chèvre-Miel,Sucré-salé,50,Classique,1,28.85,28.85
+CMD0046,2026-01-07,19:30,CLI017,Centre-ville,À emporter,Espèces,Aucune,P008,Chèvre-Miel,Sucré-salé,30,Classique,2,18.23,36.46
+CMD0046,2026-01-07,19:30,CLI017,Centre-ville,À emporter,Espèces,Aucune,P005,4 Fromages,Fromage,40,Classique,1,22.1,22.1
+CMD0014,2026-01-07,21:00,CLI008,Centre-ville,À emporter,Espèces,-20%,P004,Reine,Classique,30,Classique,1,16.2,12.96
+CMD0112,2026-01-08,12:15,CLI039,Gare,Sur place,Espèces,Menu étudiant,P005,4 Fromages,Fromage,40,Classique,1,22.1,18.79
+CMD0141,2026-01-08,13:30,CLI030,Zone résidentielle,Livraison,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,20,Épaisse,2,12.0,24.0
+CMD0141,2026-01-08,13:30,CLI030,Zone résidentielle,Livraison,Titres restaurant,Aucune,P004,Reine,Classique,20,Classique,1,12.5,12.5
+CMD0100,2026-01-09,12:45,CLI077,Gare,À emporter,Titres restaurant,Aucune,P005,4 Fromages,Fromage,20,Fine,1,13.0,13.0
+CMD0100,2026-01-09,12:45,CLI077,Gare,À emporter,Titres restaurant,Aucune,P007,Pepperoni,Viande,20,Fine,1,12.0,12.0
+CMD0057,2026-01-09,15:45,CLI044,Centre-ville,Livraison,Titres restaurant,Aucune,P005,4 Fromages,Fromage,40,Fine,1,22.6,22.6
+CMD0137,2026-01-09,18:00,CLI037,Université,À emporter,Carte bancaire,-10%,P007,Pepperoni,Viande,20,Épaisse,1,12.0,10.8
+CMD0156,2026-01-10,12:30,CLI020,Université,À emporter,Titres restaurant,Aucune,P002,Orientale,Viande,20,Épaisse,1,12.5,12.5
+CMD0067,2026-01-10,13:15,CLI051,Université,Livraison,Titres restaurant,Aucune,P002,Orientale,Viande,30,Fine,1,17.38,17.38
+CMD0159,2026-01-10,16:30,CLI032,Gare,Livraison,Espèces,Aucune,P003,Hawaienne,Sucré-salé,20,Épaisse,1,12.0,12.0
+CMD0159,2026-01-10,16:30,CLI032,Gare,Livraison,Espèces,Aucune,P007,Pepperoni,Viande,40,Classique,1,20.9,20.9
+CMD0013,2026-01-10,19:15,CLI036,Zone résidentielle,Livraison,Carte bancaire,Aucune,P004,Reine,Classique,30,Épaisse,1,16.7,16.7
+CMD0013,2026-01-10,19:15,CLI036,Zone résidentielle,Livraison,Carte bancaire,Aucune,P002,Orientale,Viande,30,Classique,1,17.38,17.38
+CMD0038,2026-01-11,18:00,CLI070,Centre-ville,Sur place,Espèces,Aucune,P001,Margherita,Classique,30,Épaisse,1,12.83,12.83
+CMD0038,2026-01-11,18:00,CLI070,Centre-ville,Sur place,Espèces,Aucune,P001,Margherita,Classique,30,Classique,1,12.83,12.83
+CMD0138,2026-01-11,21:15,CLI084,Zone résidentielle,Livraison,Carte bancaire,Aucune,P003,Hawaienne,Sucré-salé,30,Classique,1,16.03,16.03
+CMD0175,2026-01-13,13:45,CLI008,Gare,Livraison,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,40,Fine,1,20.05,20.05
+CMD0150,2026-01-13,19:15,CLI031,Les Halles,Sur place,Titres restaurant,Aucune,P007,Pepperoni,Viande,20,Sans gluten,1,13.5,13.5
+CMD0061,2026-01-13,21:00,CLI057,Centre-ville,Sur place,Espèces,Menu étudiant,P001,Margherita,Classique,20,Classique,1,9.5,8.07
+CMD0071,2026-01-13,21:30,CLI070,Université,Livraison,Titres restaurant,Aucune,P002,Orientale,Viande,40,Épaisse,1,21.75,21.75
+CMD0020,2026-01-14,13:30,CLI015,Les Halles,Livraison,Titres restaurant,Aucune,P004,Reine,Classique,30,Classique,1,16.7,16.7
+CMD0039,2026-01-15,20:15,CLI060,Zone résidentielle,Livraison,Espèces,Aucune,P002,Orientale,Viande,30,Classique,1,17.38,17.38
+CMD0039,2026-01-15,20:15,CLI060,Zone résidentielle,Livraison,Espèces,Aucune,P001,Margherita,Classique,40,Fine,2,16.65,33.3
+CMD0039,2026-01-15,20:15,CLI060,Zone résidentielle,Livraison,Espèces,Aucune,P007,Pepperoni,Viande,20,Fine,1,12.5,12.5
+CMD0078,2026-01-16,17:30,CLI055,Les Halles,Livraison,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,20,Classique,1,12.0,12.0
+CMD0078,2026-01-16,17:30,CLI055,Les Halles,Livraison,Titres restaurant,Aucune,P008,Chèvre-Miel,Sucré-salé,20,Classique,1,14.0,14.0
+CMD0076,2026-01-17,15:30,CLI049,Zone résidentielle,Livraison,Titres restaurant,Aucune,P002,Orientale,Viande,30,Classique,1,17.38,17.38
+CMD0076,2026-01-17,15:30,CLI049,Zone résidentielle,Livraison,Titres restaurant,Aucune,P004,Reine,Classique,20,Épaisse,1,12.5,12.5
+CMD0179,2026-01-17,21:30,CLI021,Les Halles,Livraison,Espèces,Aucune,P006,Végétarienne,Végétarienne,30,Fine,1,16.03,16.03
+CMD0073,2026-01-19,20:00,CLI036,Zone résidentielle,Livraison,Carte bancaire,Menu étudiant,P003,Hawaienne,Sucré-salé,20,Épaisse,1,12.0,10.2
+CMD0059,2026-01-20,18:00,CLI017,Centre-ville,À emporter,Titres restaurant,Aucune,P008,Chèvre-Miel,Sucré-salé,20,Épaisse,1,13.5,13.5
+CMD0059,2026-01-20,18:00,CLI017,Centre-ville,À emporter,Titres restaurant,Aucune,P003,Hawaienne,Sucré-salé,20,Fine,1,11.5,11.5
+CMD0059,2026-01-20,18:00,CLI017,Centre-ville,À emporter,Titres restaurant,Aucune,P008,Chèvre-Miel,Sucré-salé,30,Classique,1,18.23,18.23
+CMD0058,2026-01-20,18:45,CLI045,Les Halles,À emporter,Titres restaurant,Aucune,P004,Reine,Classique,30,Classique,1,16.2,16.2
+CMD0058,2026-01-20,18:45,CLI045,Les Halles,À emporter,Titres restaurant,Aucune,P001,Margherita,Classique,20,Classique,2,9.5,19.0
+CMD0058,2026-01-20,18:45,CLI045,Les Halles,À emporter,Titres restaurant,Aucune,P007,Pepperoni,Viande,20,Fine,1,12.0,12.0
+CMD0005,2026-01-21,18:45,CLI035,Gare,Livraison,Titres restaurant,-10%,P001,Margherita,Classique,20,Classique,1,10.0,9.0
+CMD0005,2026-01-21,18:45,CLI035,Gare,Livraison,Titres restaurant,-10%,P005,4 Fromages,Fromage,20,Épaisse,1,13.5,12.15
+CMD0152,2026-01-22,12:45,CLI056,Centre-ville,À emporter,Espèces,Aucune,P001,Margherita,Classique,20,Épaisse,1,9.5,9.5
+CMD0152,2026-01-22,12:45,CLI056,Centre-ville,À emporter,Espèces,Aucune,P008,Chèvre-Miel,Sucré-salé,20,Épaisse,1,13.5,13.5
+CMD0152,2026-01-22,12:45,CLI056,Centre-ville,À emporter,Espèces,Aucune,P005,4 Fromages,Fromage,40,Fine,1,22.1,22.1
+CMD0016,2026-01-22,17:00,CLI050,Zone résidentielle,À emporter,Espèces,Aucune,P008,Chèvre-Miel,Sucré-salé,20,Classique,2,13.5,27.0
+CMD0016,2026-01-22,17:00,CLI050,Zone résidentielle,À emporter,Espèces,Aucune,P001,Margherita,Classique,30,Classique,1,12.83,12.83
+CMD0164,2026-01-22,21:00,CLI073,Les Halles,Livraison,Titres restaurant,Aucune,P007,Pepperoni,Viande,20,Classique,1,12.5,12.5
+CMD0164,2026-01-22,21:00,CLI073,Les Halles,Livraison,Titres restaurant,Aucune,P004,Reine,Classique,20,Classique,1,12.5,12.5
+CMD0164,2026-01-22,21:00,CLI073,Les Halles,Livraison,Titres restaurant,Aucune,P003,Hawaienne,Sucré-salé,20,Classique,1,12.0,12.0
+CMD0066,2026-01-23,14:15,CLI070,Les Halles,Livraison,Espèces,Aucune,P005,4 Fromages,Fromage,40,Épaisse,2,22.6,45.2
+CMD0066,2026-01-23,14:15,CLI070,Les Halles,Livraison,Espèces,Aucune,P005,4 Fromages,Fromage,30,Classique,1,18.05,18.05
+CMD0131,2026-01-23,20:45,CLI055,Centre-ville,À emporter,Carte bancaire,Aucune,P003,Hawaienne,Sucré-salé,30,Épaisse,1,15.53,15.53
+CMD0087,2026-01-25,16:30,CLI083,Les Halles,Livraison,Carte bancaire,Aucune,P003,Hawaienne,Sucré-salé,30,Fine,1,16.03,16.03
+CMD0029,2026-01-25,17:45,CLI023,Centre-ville,À emporter,Espèces,Aucune,P004,Reine,Classique,20,Fine,1,12.0,12.0
+CMD0025,2026-01-26,18:30,CLI040,Gare,Livraison,Carte bancaire,Aucune,P005,4 Fromages,Fromage,40,Sans gluten,1,24.1,24.1
+CMD0174,2026-01-27,11:30,CLI069,Les Halles,À emporter,Titres restaurant,Aucune,P005,4 Fromages,Fromage,50,Classique,2,27.3,54.6
+CMD0094,2026-01-28,16:45,CLI025,Les Halles,Sur place,Carte bancaire,Aucune,P002,Orientale,Viande,30,Classique,1,16.88,16.88
+CMD0094,2026-01-28,16:45,CLI025,Les Halles,Sur place,Carte bancaire,Aucune,P001,Margherita,Classique,30,Épaisse,1,12.83,12.83
+CMD0072,2026-01-28,21:00,CLI007,Zone résidentielle,Livraison,Carte bancaire,Menu étudiant,P004,Reine,Classique,30,Épaisse,1,16.7,14.19
+CMD0012,2026-01-29,12:30,CLI003,Centre-ville,À emporter,Carte bancaire,Aucune,P001,Margherita,Classique,20,Épaisse,1,9.5,9.5
+CMD0065,2026-01-29,21:15,CLI080,Gare,À emporter,Titres restaurant,-10%,P001,Margherita,Classique,20,Classique,1,9.5,8.55
+CMD0065,2026-01-29,21:15,CLI080,Gare,À emporter,Titres restaurant,-10%,P003,Hawaienne,Sucré-salé,20,Classique,1,11.5,10.35
+CMD0096,2026-01-30,19:15,CLI040,Gare,Livraison,Espèces,Menu étudiant,P008,Chèvre-Miel,Sucré-salé,30,Classique,1,18.73,15.92
+CMD0127,2026-02-01,11:15,CLI082,Université,Sur place,Carte bancaire,Aucune,P003,Hawaienne,Sucré-salé,10,Fine,2,8.05,16.1
+CMD0151,2026-02-01,14:30,CLI011,Centre-ville,Livraison,Titres restaurant,-10%,P007,Pepperoni,Viande,30,Classique,1,16.7,15.03
+CMD0021,2026-02-03,19:45,CLI033,Université,Livraison,Carte bancaire,Aucune,P001,Margherita,Classique,10,Fine,1,7.15,7.15
+CMD0021,2026-02-03,19:45,CLI033,Université,Livraison,Carte bancaire,Aucune,P005,4 Fromages,Fromage,20,Classique,1,13.5,13.5
+CMD0157,2026-02-04,12:15,CLI012,Zone résidentielle,Sur place,Espèces,Aucune,P001,Margherita,Classique,20,Fine,1,9.5,9.5
+CMD0130,2026-02-04,14:00,CLI043,Gare,Sur place,Espèces,Aucune,P006,Végétarienne,Végétarienne,30,Fine,1,15.53,15.53
+CMD0003,2026-02-05,13:15,CLI044,Les Halles,Sur place,Espèces,Aucune,P001,Margherita,Classique,30,Classique,2,12.83,25.66
+CMD0003,2026-02-05,13:15,CLI044,Les Halles,Sur place,Espèces,Aucune,P007,Pepperoni,Viande,20,Classique,1,12.0,12.0
+CMD0126,2026-02-06,12:45,CLI051,Les Halles,Livraison,Carte bancaire,Aucune,P002,Orientale,Viande,20,Classique,1,13.0,13.0
+CMD0126,2026-02-06,12:45,CLI051,Les Halles,Livraison,Carte bancaire,Aucune,P008,Chèvre-Miel,Sucré-salé,20,Épaisse,1,14.0,14.0
+CMD0126,2026-02-06,12:45,CLI051,Les Halles,Livraison,Carte bancaire,Aucune,P005,4 Fromages,Fromage,20,Fine,1,13.5,13.5
+CMD0117,2026-02-07,17:45,CLI032,Zone résidentielle,Livraison,Carte bancaire,-20%,P004,Reine,Classique,30,Classique,1,16.7,13.36
+CMD0117,2026-02-07,17:45,CLI032,Zone résidentielle,Livraison,Carte bancaire,-20%,P008,Chèvre-Miel,Sucré-salé,40,Classique,1,23.45,18.76
+CMD0173,2026-02-08,11:45,CLI034,Centre-ville,À emporter,Carte bancaire,Aucune,P004,Reine,Classique,20,Fine,1,12.0,12.0
+CMD0173,2026-02-08,11:45,CLI034,Centre-ville,À emporter,Carte bancaire,Aucune,P007,Pepperoni,Viande,20,Classique,1,12.0,12.0
+CMD0143,2026-02-08,13:45,CLI008,Gare,À emporter,Espèces,Aucune,P005,4 Fromages,Fromage,20,Fine,2,13.0,26.0
+CMD0115,2026-02-08,18:15,CLI052,Gare,À emporter,Carte bancaire,-10%,P008,Chèvre-Miel,Sucré-salé,30,Classique,1,18.23,16.41
+CMD0136,2026-02-09,11:45,CLI033,Centre-ville,Livraison,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,30,Classique,1,16.03,16.03
+CMD0133,2026-02-09,13:45,CLI065,Centre-ville,Livraison,Titres restaurant,-10%,P005,4 Fromages,Fromage,20,Classique,2,13.5,24.3
+CMD0133,2026-02-09,13:45,CLI065,Centre-ville,Livraison,Titres restaurant,-10%,P008,Chèvre-Miel,Sucré-salé,20,Fine,1,14.0,12.6
+CMD0031,2026-02-09,14:15,CLI019,Zone résidentielle,Sur place,Carte bancaire,Menu étudiant,P002,Orientale,Viande,30,Épaisse,1,16.88,14.35
+CMD0031,2026-02-09,14:15,CLI019,Zone résidentielle,Sur place,Carte bancaire,Menu étudiant,P007,Pepperoni,Viande,30,Classique,1,16.2,13.77
+CMD0023,2026-02-09,16:00,CLI046,Les Halles,Sur place,Carte bancaire,-10%,P007,Pepperoni,Viande,50,Fine,2,25.2,45.36
+CMD0023,2026-02-09,16:00,CLI046,Les Halles,Sur place,Carte bancaire,-10%,P004,Reine,Classique,40,Sans gluten,1,21.9,19.71
+CMD0153,2026-02-10,11:15,CLI076,Centre-ville,Sur place,Titres restaurant,-20%,P004,Reine,Classique,30,Épaisse,1,16.2,12.96
+CMD0169,2026-02-10,12:15,CLI040,Zone résidentielle,Sur place,Espèces,-10%,P003,Hawaienne,Sucré-salé,30,Classique,1,15.53,13.98
+CMD0006,2026-02-10,14:45,CLI051,Les Halles,Livraison,Titres restaurant,Aucune,P005,4 Fromages,Fromage,30,Classique,1,18.05,18.05
+CMD0116,2026-02-10,16:45,CLI017,Les Halles,Livraison,Titres restaurant,Aucune,P002,Orientale,Viande,20,Classique,1,13.0,13.0
+CMD0027,2026-02-10,17:00,CLI050,Université,Livraison,Carte bancaire,Aucune,P004,Reine,Classique,20,Classique,1,12.5,12.5
+CMD0085,2026-02-10,20:45,CLI074,Centre-ville,À emporter,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,20,Épaisse,1,11.5,11.5
+CMD0155,2026-02-11,11:30,CLI058,Université,À emporter,Espèces,Aucune,P007,Pepperoni,Viande,20,Fine,1,12.0,12.0
+CMD0158,2026-02-11,17:00,CLI038,Zone résidentielle,À emporter,Carte bancaire,-10%,P004,Reine,Classique,30,Classique,1,16.2,14.58
+CMD0158,2026-02-11,17:00,CLI038,Zone résidentielle,À emporter,Carte bancaire,-10%,P003,Hawaienne,Sucré-salé,20,Classique,1,11.5,10.35
+CMD0158,2026-02-11,17:00,CLI038,Zone résidentielle,À emporter,Carte bancaire,-10%,P003,Hawaienne,Sucré-salé,20,Classique,1,11.5,10.35
+CMD0053,2026-02-11,21:00,CLI021,Université,À emporter,Titres restaurant,Aucune,P001,Margherita,Classique,30,Classique,1,12.83,12.83
+CMD0053,2026-02-11,21:00,CLI021,Université,À emporter,Titres restaurant,Aucune,P007,Pepperoni,Viande,40,Épaisse,1,20.4,20.4
+CMD0034,2026-02-12,16:00,CLI018,Gare,Sur place,Espèces,-10%,P007,Pepperoni,Viande,20,Classique,1,12.0,10.8
+CMD0028,2026-02-12,20:30,CLI085,Zone résidentielle,Livraison,Titres restaurant,Menu étudiant,P007,Pepperoni,Viande,20,Fine,1,12.5,10.62
+CMD0080,2026-02-13,16:00,CLI024,Centre-ville,Livraison,Titres restaurant,-10%,P001,Margherita,Classique,20,Classique,1,10.0,9.0
+CMD0122,2026-02-13,19:45,CLI073,Centre-ville,À emporter,Carte bancaire,Aucune,P005,4 Fromages,Fromage,30,Fine,1,17.55,17.55
+CMD0122,2026-02-13,19:45,CLI073,Centre-ville,À emporter,Carte bancaire,Aucune,P001,Margherita,Classique,30,Classique,1,12.83,12.83
+CMD0122,2026-02-13,19:45,CLI073,Centre-ville,À emporter,Carte bancaire,Aucune,P004,Reine,Classique,30,Fine,1,16.2,16.2
+CMD0074,2026-02-15,14:30,CLI003,Université,Sur place,Carte bancaire,Aucune,P002,Orientale,Viande,30,Fine,1,16.88,16.88
+CMD0074,2026-02-15,14:30,CLI003,Université,Sur place,Carte bancaire,Aucune,P002,Orientale,Viande,30,Classique,1,16.88,16.88
+CMD0064,2026-02-15,20:30,CLI038,Centre-ville,Sur place,Titres restaurant,Aucune,P001,Margherita,Classique,40,Fine,1,16.15,16.15
+CMD0064,2026-02-15,20:30,CLI038,Centre-ville,Sur place,Titres restaurant,Aucune,P005,4 Fromages,Fromage,30,Classique,1,17.55,17.55
+CMD0119,2026-02-16,11:45,CLI007,Les Halles,À emporter,Carte bancaire,Aucune,P008,Chèvre-Miel,Sucré-salé,30,Classique,2,18.23,36.46
+CMD0101,2026-02-16,12:00,CLI050,Les Halles,Livraison,Carte bancaire,Aucune,P001,Margherita,Classique,20,Classique,1,10.0,10.0
+CMD0007,2026-02-16,14:15,CLI066,Gare,À emporter,Carte bancaire,-20%,P007,Pepperoni,Viande,30,Classique,1,16.2,12.96
+CMD0007,2026-02-16,14:15,CLI066,Gare,À emporter,Carte bancaire,-20%,P008,Chèvre-Miel,Sucré-salé,30,Sans gluten,1,19.73,15.78
+CMD0168,2026-02-16,16:15,CLI059,Zone résidentielle,Sur place,Titres restaurant,-20%,P006,Végétarienne,Végétarienne,30,Fine,1,15.53,12.42
+CMD0168,2026-02-16,16:15,CLI059,Zone résidentielle,Sur place,Titres restaurant,-20%,P006,Végétarienne,Végétarienne,20,Classique,1,11.5,9.2
+CMD0168,2026-02-16,16:15,CLI059,Zone résidentielle,Sur place,Titres restaurant,-20%,P005,4 Fromages,Fromage,40,Fine,1,22.1,17.68
+CMD0110,2026-02-16,19:30,CLI060,Centre-ville,Livraison,Titres restaurant,Aucune,P007,Pepperoni,Viande,50,Fine,1,25.7,25.7
+CMD0004,2026-02-16,20:15,CLI009,Centre-ville,Sur place,Carte bancaire,-10%,P002,Orientale,Viande,20,Classique,1,12.5,11.25
+CMD0004,2026-02-16,20:15,CLI009,Centre-ville,Sur place,Carte bancaire,-10%,P003,Hawaienne,Sucré-salé,20,Classique,1,11.5,10.35
+CMD0004,2026-02-16,20:15,CLI009,Centre-ville,Sur place,Carte bancaire,-10%,P002,Orientale,Viande,30,Classique,1,16.88,15.19
+CMD0144,2026-02-17,12:15,CLI007,Centre-ville,À emporter,Titres restaurant,Aucune,P004,Reine,Classique,40,Fine,1,20.4,20.4
+CMD0144,2026-02-17,12:15,CLI007,Centre-ville,À emporter,Titres restaurant,Aucune,P004,Reine,Classique,30,Épaisse,1,16.2,16.2
+CMD0144,2026-02-17,12:15,CLI007,Centre-ville,À emporter,Titres restaurant,Aucune,P001,Margherita,Classique,20,Classique,1,9.5,9.5
+CMD0079,2026-02-17,12:30,CLI074,Zone résidentielle,Sur place,Espèces,-20%,P001,Margherita,Classique,30,Fine,1,12.83,10.26
+CMD0079,2026-02-17,12:30,CLI074,Zone résidentielle,Sur place,Espèces,-20%,P001,Margherita,Classique,20,Fine,1,9.5,7.6
+CMD0044,2026-02-17,18:30,CLI055,Université,Livraison,Titres restaurant,Aucune,P005,4 Fromages,Fromage,20,Fine,1,13.5,13.5
+CMD0084,2026-02-18,19:15,CLI065,Centre-ville,À emporter,Titres restaurant,-20%,P001,Margherita,Classique,20,Classique,1,9.5,7.6
+CMD0132,2026-02-19,14:45,CLI035,Zone résidentielle,Livraison,Espèces,Aucune,P006,Végétarienne,Végétarienne,30,Classique,1,16.03,16.03
+CMD0036,2026-02-19,16:45,CLI022,Zone résidentielle,Livraison,Carte bancaire,Menu étudiant,P007,Pepperoni,Viande,30,Fine,1,16.7,14.19
+CMD0167,2026-02-20,11:15,CLI058,Gare,À emporter,Espèces,Aucune,P002,Orientale,Viande,30,Fine,1,16.88,16.88
+CMD0118,2026-02-20,19:45,CLI031,Les Halles,Sur place,Espèces,Aucune,P008,Chèvre-Miel,Sucré-salé,20,Classique,1,13.5,13.5
+CMD0118,2026-02-20,19:45,CLI031,Les Halles,Sur place,Espèces,Aucune,P003,Hawaienne,Sucré-salé,40,Fine,1,19.55,19.55
+CMD0060,2026-02-20,21:00,CLI043,Les Halles,Livraison,Titres restaurant,Aucune,P008,Chèvre-Miel,Sucré-salé,40,Classique,1,23.45,23.45
+CMD0060,2026-02-20,21:00,CLI043,Les Halles,Livraison,Titres restaurant,Aucune,P005,4 Fromages,Fromage,50,Fine,1,27.8,27.8
+CMD0051,2026-02-21,15:45,CLI057,Les Halles,Sur place,Carte bancaire,-20%,P001,Margherita,Classique,20,Sans gluten,1,11.0,8.8
+CMD0051,2026-02-21,15:45,CLI057,Les Halles,Sur place,Carte bancaire,-20%,P001,Margherita,Classique,50,Fine,1,19.95,15.96
+CMD0047,2026-02-21,18:00,CLI074,Zone résidentielle,À emporter,Carte bancaire,Aucune,P002,Orientale,Viande,50,Classique,1,26.25,26.25
+CMD0047,2026-02-21,18:00,CLI074,Zone résidentielle,À emporter,Carte bancaire,Aucune,P004,Reine,Classique,30,Classique,2,16.2,32.4
+CMD0047,2026-02-21,18:00,CLI074,Zone résidentielle,À emporter,Carte bancaire,Aucune,P005,4 Fromages,Fromage,40,Sans gluten,1,23.6,23.6
+CMD0104,2026-02-21,18:45,CLI044,Les Halles,Livraison,Espèces,-10%,P005,4 Fromages,Fromage,40,Fine,1,22.6,20.34
+CMD0104,2026-02-21,18:45,CLI044,Les Halles,Livraison,Espèces,-10%,P003,Hawaienne,Sucré-salé,30,Classique,1,16.03,14.43
+CMD0104,2026-02-21,18:45,CLI044,Les Halles,Livraison,Espèces,-10%,P005,4 Fromages,Fromage,20,Fine,1,13.5,12.15
+CMD0024,2026-02-22,11:15,CLI043,Gare,Livraison,Espèces,-20%,P002,Orientale,Viande,20,Classique,1,13.0,10.4
+CMD0043,2026-02-22,18:15,CLI061,Centre-ville,À emporter,Espèces,Aucune,P004,Reine,Classique,20,Classique,1,12.0,12.0
+CMD0124,2026-02-22,19:45,CLI008,Les Halles,Livraison,Titres restaurant,Aucune,P008,Chèvre-Miel,Sucré-salé,30,Classique,1,18.73,18.73
+CMD0124,2026-02-22,19:45,CLI008,Les Halles,Livraison,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,30,Fine,1,16.03,16.03
+CMD0124,2026-02-22,19:45,CLI008,Les Halles,Livraison,Titres restaurant,Aucune,P005,4 Fromages,Fromage,30,Classique,1,18.05,18.05
+CMD0111,2026-02-22,20:00,CLI017,Université,Livraison,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,20,Épaisse,1,12.0,12.0
+CMD0111,2026-02-22,20:00,CLI017,Université,Livraison,Titres restaurant,Aucune,P003,Hawaienne,Sucré-salé,30,Classique,1,16.03,16.03
+CMD0128,2026-02-22,21:45,CLI062,Centre-ville,Livraison,Espèces,Aucune,P002,Orientale,Viande,30,Classique,1,17.38,17.38
+CMD0128,2026-02-22,21:45,CLI062,Centre-ville,Livraison,Espèces,Aucune,P001,Margherita,Classique,40,Classique,2,16.65,33.3
+CMD0128,2026-02-22,21:45,CLI062,Centre-ville,Livraison,Espèces,Aucune,P003,Hawaienne,Sucré-salé,40,Classique,1,20.05,20.05
+CMD0165,2026-02-23,12:00,CLI019,Gare,À emporter,Espèces,Aucune,P006,Végétarienne,Végétarienne,30,Classique,1,15.53,15.53
+CMD0165,2026-02-23,12:00,CLI019,Gare,À emporter,Espèces,Aucune,P006,Végétarienne,Végétarienne,20,Classique,1,11.5,11.5
+CMD0035,2026-02-23,17:00,CLI074,Les Halles,À emporter,Carte bancaire,Menu étudiant,P007,Pepperoni,Viande,30,Fine,1,16.2,13.77
+CMD0035,2026-02-23,17:00,CLI074,Les Halles,À emporter,Carte bancaire,Menu étudiant,P004,Reine,Classique,30,Classique,1,16.2,13.77
+CMD0134,2026-02-23,19:45,CLI069,Zone résidentielle,Livraison,Carte bancaire,-10%,P002,Orientale,Viande,30,Classique,1,17.38,15.64
+CMD0134,2026-02-23,19:45,CLI069,Zone résidentielle,Livraison,Carte bancaire,-10%,P002,Orientale,Viande,20,Classique,1,13.0,11.7
+CMD0134,2026-02-23,19:45,CLI069,Zone résidentielle,Livraison,Carte bancaire,-10%,P003,Hawaienne,Sucré-salé,20,Épaisse,1,12.0,10.8
+CMD0037,2026-02-24,13:45,CLI024,Université,Sur place,Espèces,Aucune,P007,Pepperoni,Viande,20,Sans gluten,1,13.5,13.5
+CMD0041,2026-02-25,16:45,CLI020,Les Halles,À emporter,Titres restaurant,Aucune,P008,Chèvre-Miel,Sucré-salé,30,Épaisse,1,18.23,18.23
+CMD0041,2026-02-25,16:45,CLI020,Les Halles,À emporter,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,40,Épaisse,1,19.55,19.55
+CMD0082,2026-02-26,17:30,CLI028,Centre-ville,Livraison,Carte bancaire,Aucune,P008,Chèvre-Miel,Sucré-salé,30,Classique,1,18.73,18.73
+CMD0091,2026-02-26,18:15,CLI047,Les Halles,À emporter,Espèces,Aucune,P001,Margherita,Classique,30,Fine,1,12.83,12.83
+CMD0091,2026-02-26,18:15,CLI047,Les Halles,À emporter,Espèces,Aucune,P002,Orientale,Viande,30,Classique,1,16.88,16.88
+CMD0042,2026-02-27,14:45,CLI073,Université,À emporter,Espèces,Aucune,P003,Hawaienne,Sucré-salé,30,Classique,1,15.53,15.53
+CMD0042,2026-02-27,14:45,CLI073,Université,À emporter,Espèces,Aucune,P005,4 Fromages,Fromage,40,Fine,1,22.1,22.1
+CMD0042,2026-02-27,14:45,CLI073,Université,À emporter,Espèces,Aucune,P001,Margherita,Classique,30,Classique,1,12.83,12.83
+CMD0103,2026-02-28,11:30,CLI026,Les Halles,Sur place,Carte bancaire,-20%,P007,Pepperoni,Viande,50,Classique,1,25.2,20.16
+CMD0103,2026-02-28,11:30,CLI026,Les Halles,Sur place,Carte bancaire,-20%,P004,Reine,Classique,20,Épaisse,1,12.0,9.6
+CMD0103,2026-02-28,11:30,CLI026,Les Halles,Sur place,Carte bancaire,-20%,P006,Végétarienne,Végétarienne,20,Fine,1,11.5,9.2
+CMD0081,2026-02-28,16:15,CLI048,Zone résidentielle,À emporter,Espèces,-10%,P001,Margherita,Classique,20,Fine,1,9.5,8.55
+CMD0081,2026-02-28,16:15,CLI048,Zone résidentielle,À emporter,Espèces,-10%,P002,Orientale,Viande,20,Fine,1,12.5,11.25
+CMD0077,2026-02-28,17:45,CLI013,Les Halles,À emporter,Espèces,-10%,P008,Chèvre-Miel,Sucré-salé,20,Épaisse,1,13.5,12.15
+CMD0077,2026-02-28,17:45,CLI013,Les Halles,À emporter,Espèces,-10%,P002,Orientale,Viande,30,Classique,1,16.88,15.19
+CMD0077,2026-02-28,17:45,CLI013,Les Halles,À emporter,Espèces,-10%,P001,Margherita,Classique,30,Fine,1,12.83,11.55
+CMD0146,2026-03-01,12:45,CLI041,Centre-ville,Livraison,Espèces,Aucune,P004,Reine,Classique,30,Classique,1,16.7,16.7
+CMD0146,2026-03-01,12:45,CLI041,Centre-ville,Livraison,Espèces,Aucune,P007,Pepperoni,Viande,20,Classique,1,12.5,12.5
+CMD0015,2026-03-01,14:00,CLI057,Zone résidentielle,Livraison,Titres restaurant,Aucune,P002,Orientale,Viande,40,Épaisse,1,21.75,21.75
+CMD0015,2026-03-01,14:00,CLI057,Zone résidentielle,Livraison,Titres restaurant,Aucune,P008,Chèvre-Miel,Sucré-salé,30,Épaisse,2,18.73,37.46
+CMD0162,2026-03-01,14:45,CLI038,Université,Livraison,Carte bancaire,-20%,P003,Hawaienne,Sucré-salé,30,Classique,1,16.03,12.82
+CMD0162,2026-03-01,14:45,CLI038,Université,Livraison,Carte bancaire,-20%,P007,Pepperoni,Viande,30,Classique,2,16.7,26.72
+CMD0063,2026-03-01,15:15,CLI010,Les Halles,À emporter,Espèces,Menu étudiant,P007,Pepperoni,Viande,30,Classique,1,16.2,13.77
+CMD0063,2026-03-01,15:15,CLI010,Les Halles,À emporter,Espèces,Menu étudiant,P007,Pepperoni,Viande,40,Classique,1,20.4,17.34
+CMD0030,2026-03-01,18:45,CLI028,Centre-ville,À emporter,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,20,Sans gluten,1,13.0,13.0
+CMD0099,2026-03-02,13:45,CLI058,Gare,À emporter,Carte bancaire,Aucune,P007,Pepperoni,Viande,20,Classique,1,12.0,12.0
+CMD0099,2026-03-02,13:45,CLI058,Gare,À emporter,Carte bancaire,Aucune,P001,Margherita,Classique,20,Fine,1,9.5,9.5
+CMD0049,2026-03-02,15:00,CLI030,Université,À emporter,Espèces,-10%,P004,Reine,Classique,40,Fine,1,20.4,18.36
+CMD0121,2026-03-02,19:45,CLI020,Zone résidentielle,À emporter,Titres restaurant,Aucune,P007,Pepperoni,Viande,50,Fine,1,25.2,25.2
+CMD0145,2026-03-03,14:15,CLI051,Les Halles,Livraison,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,20,Classique,2,12.0,24.0
+CMD0163,2026-03-03,20:45,CLI069,Centre-ville,À emporter,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,30,Épaisse,1,15.53,15.53
+CMD0163,2026-03-03,20:45,CLI069,Centre-ville,À emporter,Titres restaurant,Aucune,P002,Orientale,Viande,20,Classique,1,12.5,12.5
+CMD0011,2026-03-04,12:15,CLI017,Zone résidentielle,Livraison,Titres restaurant,Aucune,P007,Pepperoni,Viande,50,Épaisse,1,25.7,25.7
+CMD0011,2026-03-04,12:15,CLI017,Zone résidentielle,Livraison,Titres restaurant,Aucune,P004,Reine,Classique,30,Classique,1,16.7,16.7
+CMD0011,2026-03-04,12:15,CLI017,Zone résidentielle,Livraison,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,20,Classique,1,12.0,12.0
+CMD0176,2026-03-04,13:30,CLI081,Centre-ville,À emporter,Espèces,Aucune,P005,4 Fromages,Fromage,30,Épaisse,1,17.55,17.55
+CMD0177,2026-03-04,16:00,CLI012,Les Halles,Livraison,Espèces,Aucune,P007,Pepperoni,Viande,20,Classique,1,12.5,12.5
+CMD0177,2026-03-04,16:00,CLI012,Les Halles,Livraison,Espèces,Aucune,P005,4 Fromages,Fromage,20,Classique,1,13.5,13.5
+CMD0177,2026-03-04,16:00,CLI012,Les Halles,Livraison,Espèces,Aucune,P003,Hawaienne,Sucré-salé,30,Classique,1,16.03,16.03
+CMD0161,2026-03-04,20:15,CLI042,Zone résidentielle,À emporter,Espèces,Aucune,P003,Hawaienne,Sucré-salé,30,Fine,2,15.53,31.06
+CMD0129,2026-03-05,13:30,CLI005,Les Halles,Sur place,Titres restaurant,Aucune,P008,Chèvre-Miel,Sucré-salé,40,Classique,1,22.95,22.95
+CMD0056,2026-03-05,15:30,CLI054,Zone résidentielle,Livraison,Espèces,Aucune,P004,Reine,Classique,40,Classique,1,20.9,20.9
+CMD0171,2026-03-05,17:45,CLI054,Centre-ville,Livraison,Espèces,Aucune,P004,Reine,Classique,20,Classique,1,12.5,12.5
+CMD0171,2026-03-05,17:45,CLI054,Centre-ville,Livraison,Espèces,Aucune,P003,Hawaienne,Sucré-salé,30,Fine,1,16.03,16.03
+CMD0172,2026-03-05,19:00,CLI074,Les Halles,Sur place,Titres restaurant,-20%,P001,Margherita,Classique,30,Classique,1,12.83,10.26
+CMD0172,2026-03-05,19:00,CLI074,Les Halles,Sur place,Titres restaurant,-20%,P007,Pepperoni,Viande,20,Épaisse,1,12.0,9.6
+CMD0009,2026-03-06,13:00,CLI081,Gare,À emporter,Titres restaurant,Aucune,P003,Hawaienne,Sucré-salé,30,Fine,1,15.53,15.53
+CMD0033,2026-03-06,17:45,CLI021,Gare,Livraison,Espèces,Aucune,P005,4 Fromages,Fromage,30,Classique,1,18.05,18.05
+CMD0033,2026-03-06,17:45,CLI021,Gare,Livraison,Espèces,Aucune,P005,4 Fromages,Fromage,20,Fine,1,13.5,13.5
+CMD0017,2026-03-06,19:15,CLI008,Centre-ville,Livraison,Carte bancaire,-20%,P004,Reine,Classique,20,Épaisse,1,12.5,10.0
+CMD0017,2026-03-06,19:15,CLI008,Centre-ville,Livraison,Carte bancaire,-20%,P001,Margherita,Classique,30,Classique,1,13.33,10.66
+CMD0098,2026-03-07,13:45,CLI012,Les Halles,Livraison,Carte bancaire,-20%,P007,Pepperoni,Viande,20,Classique,1,12.5,10.0
+CMD0098,2026-03-07,13:45,CLI012,Les Halles,Livraison,Carte bancaire,-20%,P002,Orientale,Viande,20,Classique,2,13.0,20.8
+CMD0098,2026-03-07,13:45,CLI012,Les Halles,Livraison,Carte bancaire,-20%,P006,Végétarienne,Végétarienne,30,Classique,1,16.03,12.82
+CMD0018,2026-03-08,16:30,CLI027,Université,Livraison,Espèces,Aucune,P005,4 Fromages,Fromage,30,Épaisse,2,18.05,36.1
+CMD0062,2026-03-09,17:15,CLI022,Zone résidentielle,Sur place,Titres restaurant,-20%,P008,Chèvre-Miel,Sucré-salé,40,Classique,1,22.95,18.36
+CMD0062,2026-03-09,17:15,CLI022,Zone résidentielle,Sur place,Titres restaurant,-20%,P005,4 Fromages,Fromage,30,Fine,2,17.55,28.08
+CMD0097,2026-03-09,17:15,CLI026,Centre-ville,Livraison,Carte bancaire,-20%,P006,Végétarienne,Végétarienne,30,Classique,1,16.03,12.82
+CMD0097,2026-03-09,17:15,CLI026,Centre-ville,Livraison,Carte bancaire,-20%,P002,Orientale,Viande,20,Fine,1,13.0,10.4
+CMD0045,2026-03-10,13:15,CLI028,Zone résidentielle,Livraison,Espèces,-10%,P002,Orientale,Viande,40,Classique,1,21.75,19.57
+CMD0045,2026-03-10,13:15,CLI028,Zone résidentielle,Livraison,Espèces,-10%,P005,4 Fromages,Fromage,10,Classique,1,9.6,8.64
+CMD0170,2026-03-10,21:15,CLI072,Les Halles,Sur place,Espèces,Aucune,P001,Margherita,Classique,40,Sans gluten,1,17.65,17.65
+CMD0170,2026-03-10,21:15,CLI072,Les Halles,Sur place,Espèces,Aucune,P004,Reine,Classique,40,Sans gluten,1,21.9,21.9
+CMD0154,2026-03-11,16:45,CLI018,Zone résidentielle,Livraison,Titres restaurant,-10%,P006,Végétarienne,Végétarienne,20,Classique,1,12.0,10.8
+CMD0154,2026-03-11,16:45,CLI018,Zone résidentielle,Livraison,Titres restaurant,-10%,P006,Végétarienne,Végétarienne,30,Fine,1,16.03,14.43
+CMD0054,2026-03-11,18:45,CLI007,Université,Sur place,Espèces,Aucune,P001,Margherita,Classique,20,Classique,2,9.5,19.0
+CMD0054,2026-03-11,18:45,CLI007,Université,Sur place,Espèces,Aucune,P008,Chèvre-Miel,Sucré-salé,40,Classique,1,22.95,22.95
+CMD0113,2026-03-12,15:15,CLI081,Gare,À emporter,Titres restaurant,Aucune,P003,Hawaienne,Sucré-salé,20,Fine,2,11.5,23.0
+CMD0113,2026-03-12,15:15,CLI081,Gare,À emporter,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,40,Fine,1,19.55,19.55
+CMD0022,2026-03-13,11:00,CLI010,Zone résidentielle,Livraison,Titres restaurant,Menu étudiant,P006,Végétarienne,Végétarienne,30,Classique,1,16.03,13.63
+CMD0108,2026-03-13,12:30,CLI034,Les Halles,Livraison,Carte bancaire,Menu étudiant,P008,Chèvre-Miel,Sucré-salé,20,Classique,1,14.0,11.9
+CMD0108,2026-03-13,12:30,CLI034,Les Halles,Livraison,Carte bancaire,Menu étudiant,P003,Hawaienne,Sucré-salé,40,Classique,1,20.05,17.04
+CMD0125,2026-03-13,15:15,CLI039,Université,Livraison,Titres restaurant,Aucune,P006,Végétarienne,Végétarienne,30,Épaisse,1,16.03,16.03
+CMD0093,2026-03-13,17:30,CLI017,Zone résidentielle,Livraison,Titres restaurant,Menu étudiant,P007,Pepperoni,Viande,30,Classique,1,16.7,14.19
+CMD0107,2026-03-14,11:15,CLI058,Centre-ville,Livraison,Espèces,Aucune,P006,Végétarienne,Végétarienne,20,Fine,1,12.0,12.0
+CMD0107,2026-03-14,11:15,CLI058,Centre-ville,Livraison,Espèces,Aucune,P002,Orientale,Viande,10,Classique,1,9.25,9.25
+CMD0147,2026-03-14,14:45,CLI071,Université,Livraison,Titres restaurant,Aucune,P008,Chèvre-Miel,Sucré-salé,30,Fine,1,18.73,18.73
+CMD0147,2026-03-14,14:45,CLI071,Université,Livraison,Titres restaurant,Aucune,P003,Hawaienne,Sucré-salé,30,Classique,2,16.03,32.06
+CMD0147,2026-03-14,14:45,CLI071,Université,Livraison,Titres restaurant,Aucune,P001,Margherita,Classique,30,Épaisse,1,13.33,13.33
+CMD0068,2026-03-16,17:30,CLI014,Zone résidentielle,Livraison,Espèces,Aucune,P004,Reine,Classique,30,Fine,1,16.7,16.7
+CMD0089,2026-03-17,11:30,CLI065,Centre-ville,Sur place,Espèces,Aucune,P005,4 Fromages,Fromage,20,Épaisse,1,13.0,13.0
+CMD0142,2026-03-17,13:45,CLI072,Université,À emporter,Espèces,Menu étudiant,P006,Végétarienne,Végétarienne,30,Classique,1,15.53,13.2
+CMD0142,2026-03-17,13:45,CLI072,Université,À emporter,Espèces,Menu étudiant,P003,Hawaienne,Sucré-salé,30,Classique,1,15.53,13.2
+CMD0083,2026-03-18,11:00,CLI027,Les Halles,À emporter,Carte bancaire,-10%,P002,Orientale,Viande,10,Fine,1,8.75,7.88
+CMD0095,2026-03-18,17:15,CLI021,Gare,Sur place,Titres restaurant,-10%,P001,Margherita,Classique,20,Fine,1,9.5,8.55
+CMD0095,2026-03-18,17:15,CLI021,Gare,Sur place,Titres restaurant,-10%,P008,Chèvre-Miel,Sucré-salé,30,Fine,1,18.23,16.41
+CMD0002,2026-03-19,11:15,CLI084,Zone résidentielle,Livraison,Espèces,Aucune,P001,Margherita,Classique,30,Classique,1,13.33,13.33
+CMD0149,2026-03-20,18:45,CLI003,Centre-ville,Sur place,Titres restaurant,Aucune,P005,4 Fromages,Fromage,30,Classique,1,17.55,17.55
+CMD0149,2026-03-20,18:45,CLI003,Centre-ville,Sur place,Titres restaurant,Aucune,P007,Pepperoni,Viande,40,Épaisse,1,20.4,20.4
+CMD0090,2026-03-20,20:45,CLI060,Université,À emporter,Titres restaurant,-20%,P004,Reine,Classique,20,Classique,1,12.0,9.6
+CMD0090,2026-03-20,20:45,CLI060,Université,À emporter,Titres restaurant,-20%,P001,Margherita,Classique,30,Épaisse,1,12.83,10.26
+CMD0090,2026-03-20,20:45,CLI060,Université,À emporter,Titres restaurant,-20%,P002,Orientale,Viande,30,Classique,1,16.88,13.5
+CMD0048,2026-03-21,11:00,CLI027,Gare,À emporter,Espèces,-10%,P002,Orientale,Viande,20,Classique,1,12.5,11.25
+CMD0180,2026-03-22,15:15,CLI055,Gare,Livraison,Titres restaurant,Aucune,P003,Hawaienne,Sucré-salé,30,Classique,1,16.03,16.03
+CMD0180,2026-03-22,15:15,CLI055,Gare,Livraison,Titres restaurant,Aucune,P001,Margherita,Classique,30,Épaisse,2,13.33,26.66
+CMD0088,2026-03-22,18:45,CLI073,Zone résidentielle,Livraison,Espèces,-10%,P006,Végétarienne,Végétarienne,40,Fine,1,20.05,18.05
+CMD0088,2026-03-22,18:45,CLI073,Zone résidentielle,Livraison,Espèces,-10%,P002,Orientale,Viande,30,Fine,1,17.38,15.64
+CMD0055,2026-03-22,20:15,CLI021,Centre-ville,À emporter,Carte bancaire,Aucune,P002,Orientale,Viande,30,Classique,1,16.88,16.88
+CMD0123,2026-03-22,20:45,CLI019,Centre-ville,Livraison,Carte bancaire,Aucune,P008,Chèvre-Miel,Sucré-salé,20,Classique,1,14.0,14.0
+CMD0001,2026-03-23,12:00,CLI036,Zone résidentielle,Sur place,Carte bancaire,-10%,P007,Pepperoni,Viande,10,Classique,1,8.4,7.56
+CMD0026,2026-03-24,19:45,CLI069,Les Halles,À emporter,Carte bancaire,Aucune,P005,4 Fromages,Fromage,10,Fine,1,9.1,9.1
+CMD0160,2026-03-25,20:15,CLI039,Les Halles,À emporter,Titres restaurant,Aucune,P007,Pepperoni,Viande,50,Classique,1,25.2,25.2
+CMD0050,2026-03-26,14:45,CLI015,Les Halles,À emporter,Titres restaurant,Aucune,P002,Orientale,Viande,20,Fine,1,12.5,12.5
+CMD0050,2026-03-26,14:45,CLI015,Les Halles,À emporter,Titres restaurant,Aucune,P005,4 Fromages,Fromage,20,Classique,1,13.0,13.0
+CMD0075,2026-03-26,19:30,CLI059,Université,À emporter,Carte bancaire,Aucune,P007,Pepperoni,Viande,30,Classique,2,16.2,32.4
+CMD0075,2026-03-26,19:30,CLI059,Université,À emporter,Carte bancaire,Aucune,P002,Orientale,Viande,40,Classique,1,21.25,21.25
+CMD0092,2026-03-26,20:15,CLI043,Les Halles,Sur place,Titres restaurant,Aucune,P007,Pepperoni,Viande,20,Fine,1,12.0,12.0
+CMD0102,2026-03-26,21:00,CLI075,Les Halles,Livraison,Espèces,Aucune,P003,Hawaienne,Sucré-salé,40,Fine,2,20.05,40.1
+CMD0102,2026-03-26,21:00,CLI075,Les Halles,Livraison,Espèces,Aucune,P008,Chèvre-Miel,Sucré-salé,30,Épaisse,1,18.73,18.73
+CMD0148,2026-03-27,11:00,CLI053,Gare,Sur place,Titres restaurant,Aucune,P008,Chèvre-Miel,Sucré-salé,20,Fine,1,13.5,13.5
+CMD0070,2026-03-27,19:45,CLI076,Centre-ville,Livraison,Carte bancaire,-20%,P007,Pepperoni,Viande,40,Classique,1,20.9,16.72
+CMD0070,2026-03-27,19:45,CLI076,Centre-ville,Livraison,Carte bancaire,-20%,P004,Reine,Classique,20,Sans gluten,1,14.0,11.2
+CMD0106,2026-03-28,13:00,CLI019,Centre-ville,Livraison,Titres restaurant,-10%,P004,Reine,Classique,30,Classique,1,16.7,15.03
+CMD0178,2026-03-29,11:00,CLI013,Gare,À emporter,Espèces,Aucune,P001,Margherita,Classique,50,Classique,2,19.95,39.9
+CMD0135,2026-03-29,14:45,CLI012,Université,Livraison,Espèces,-20%,P007,Pepperoni,Viande,30,Classique,1,16.7,13.36
+CMD0109,2026-03-29,16:30,CLI009,Gare,À emporter,Espèces,-20%,P003,Hawaienne,Sucré-salé,30,Classique,1,15.53,12.42
+CMD0109,2026-03-29,16:30,CLI009,Gare,À emporter,Espèces,-20%,P004,Reine,Classique,30,Classique,1,16.2,12.96
+CMD0120,2026-03-29,20:00,CLI017,Les Halles,Livraison,Espèces,Aucune,P006,Végétarienne,Végétarienne,30,Classique,1,16.03,16.03
+CMD0120,2026-03-29,20:00,CLI017,Les Halles,Livraison,Espèces,Aucune,P001,Margherita,Classique,10,Classique,1,7.15,7.15
+CMD0086,2026-03-30,16:00,CLI056,Université,Livraison,Carte bancaire,Aucune,P007,Pepperoni,Viande,40,Fine,1,20.9,20.9
+CMD0086,2026-03-30,16:00,CLI056,Université,Livraison,Carte bancaire,Aucune,P003,Hawaienne,Sucré-salé,20,Fine,1,12.0,12.0
+CMD0105,2026-03-30,18:30,CLI058,Université,Sur place,Espèces,Aucune,P001,Margherita,Classique,20,Fine,1,9.5,9.5
+CMD0040,2026-03-30,21:15,CLI014,Zone résidentielle,Livraison,Espèces,-20%,P001,Margherita,Classique,20,Classique,1,10.0,8.0
+CMD0040,2026-03-30,21:15,CLI014,Zone résidentielle,Livraison,Espèces,-20%,P006,Végétarienne,Végétarienne,10,Classique,1,8.55,6.84
+CMD0069,2026-03-31,15:45,CLI015,Université,Sur place,Carte bancaire,Aucune,P004,Reine,Classique,40,Classique,1,20.4,20.4
