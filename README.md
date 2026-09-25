@@ -2,7 +2,7 @@
 Travailler sur les données d’une pizzeria afin d’analyser son activité commerciale grâce à MongoDB.
 Analyse des ventes — Pizzeria MongoDB
 
-1. Présentation du projet
+**1. Présentation du projet**
 
 Ce projet consiste à exploiter les données commerciales d'une pizzeria avec MongoDB afin de transformer des données de ventes brutes en informations exploitables et en indicateurs clés de performance (KPI).
 
@@ -15,79 +15,125 @@ les formats vendus ;
 les périodes de forte activité ;
 les clients générant le plus de chiffre d'affaires.
 
-2. Données utilisées
+**2. Données utilisées**
 
 Le jeu de données contient 299 lignes de ventes.
 
 Les principales informations disponibles sont :
 
-**Champ
-Description
-order_id
-Identifiant de commande
-order_date
-Date de commande
-order_time
-Heure de commande
-customer_id
-Identifiant client
-neighborhood
-Zone du client / livraison
-channel
-Sur place / à emporter / livraison
-payment_method
-Mode de paiement
-promotion
-Promotion appliquée
-pizza_id
-Identifiant pizza
-pizza_name
-Nom de la pizza
-pizza_category
-Catégorie de pizza
-size_cm
-Diamètre en cm
-dough_type
-Type de pâte
-quantity
-Quantité vendue
-unit_price_eur
-Prix unitaire après options
-line_total_eur
-Chiffre d'affaires de la ligne**
+_Champ_
 
-3. Organisation MongoDB
+_Description_
+
+_order_id_
+
+_Identifiant de commande_
+
+_order_date_
+
+_Date de commande_
+
+_order_time_
+
+_Heure de commande_
+
+_customer_id_
+
+_Identifiant client_
+
+_neighborhood_
+
+_Zone du client / livraison_
+
+_channel_
+
+_Sur place / à emporter / livraison_
+
+_payment_method_
+
+_Mode de paiement_
+
+_promotion_
+
+_Promotion appliquée_
+
+_pizza_id_
+
+_Identifiant pizza_
+
+_pizza_name_
+
+_Nom de la pizza_
+
+_pizza_category_
+
+_Catégorie de pizza_
+
+_size_cm_
+
+_Diamètre en cm_
+
+_dough_type_
+
+_Type de pâte_
+
+_quantity_
+
+_Quantité vendue_
+
+_unit_price_eur_
+
+_Prix unitaire après options_
+
+_line_total_eur_
+
+_Chiffre d'affaires de la ligne_
+
+**3. Organisation MongoDB**
 
 Deux collections sont utilisées :
 
-pizzeria_ventes_raw
+**pizzeria_ventes_raw**
 
 Collection contenant les données brutes importées depuis le fichier CSV.
 
 Elle est conservée comme source originale et n'est pas utilisée pour les analyses finales.
 
-pizzeria_ventes
+**pizzeria_ventes**
 
 Collection contenant les données nettoyées et enrichies.
 
 Des champs complémentaires ont été ajoutés pour faciliter les analyses :
 
-**Champ ajouté
-Utilisation
-date_commande
-Regroupement et analyse temporelle
-quantite
-Quantité numérique exploitable
-prix_unitaire
-Prix numérique exploitable
-line_total_eur
-Chiffre d'affaires de la ligne
-mois
-Analyse mensuelle
-heure
-Analyse des heures de vente**
+_Champ ajouté_
 
-4. Traitement des données
+_Utilisation_
+
+_date_commande_
+
+_Regroupement et analyse temporelle_
+
+_quantite_
+
+_Quantité numérique exploitable_
+
+_prix_unitaire_
+
+_Prix numérique exploitable_
+
+_line_total_eur_
+
+_Chiffre d'affaires de la ligne_
+
+_mois_
+
+_Analyse mensuelle_
+
+_heure_
+
+_Analyse des heures de vente_
+
+**4. Traitement des données**
 
 Les données brutes ont été transformées avec une agrégation MongoDB afin de :
 
@@ -113,7 +159,7 @@ pizzeria_ventes
     ↓
 Requêtes KPI
 
-5. KPI
+**5. KPI**
 
 Les requêtes sont sauvegardées dans Navicat sous forme d'onglets nommés.
 
@@ -159,7 +205,7 @@ Capture d'écran
 
 **KPI 6 — Jour le plus actif**
 
-Capture à insérer après exécution de la requête
+Résultat : le Dimanche (sunday)
 
 Capture d'écran
 
@@ -167,6 +213,24 @@ Capture d'écran
 
 **PIPELINE :**
 <img width="1443" height="829" alt="image" src="https://github.com/user-attachments/assets/dadb2c8b-4775-4167-8321-49da2a841529" />
+
+**INTRODUCTION BI : Le dashboard**
+
+Un dashboard BI pour analyser l’activité commerciale de la pizzeria et mettre en évidence différents indicateurs de performance.
+
+**Dashboard global**
+<img width="1587" height="823" alt="image" src="https://github.com/user-attachments/assets/c64f4504-b7b7-4c0a-9c8c-1aac2c964a6d" />
+
+Le dashboard offre une lecture dynamique des données, permettant d’explorer les performances de la pizzeria selon différents indicateurs et d’identifier rapidement les tendances clés :
+
+**Exemple de sélection des résulats pour la Pizza Marguerita**
+
+<img width="998" height="563" alt="image" src="https://github.com/user-attachments/assets/deea7af5-14b3-4d35-b226-7fc95f341307" />
+
+**Exemple de sélection des résulats sur la journée la plus active**
+
+<img width="993" height="559" alt="image" src="https://github.com/user-attachments/assets/825c24fe-4ada-4d3e-b80c-ebba80a8b460" />
+
 
 **FIN**
 
