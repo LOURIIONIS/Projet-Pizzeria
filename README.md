@@ -165,7 +165,10 @@ Capture d'écran
 
 <img width="907" height="803" alt="image" src="https://github.com/user-attachments/assets/dce6981c-e2bf-4d77-9948-d4231873d139" />
 
-**FIN **
+**PIPELINE :**
+<img width="1443" height="829" alt="image" src="https://github.com/user-attachments/assets/dadb2c8b-4775-4167-8321-49da2a841529" />
+
+**FIN**
 
 6. Structure des fichiers / éléments du projet
 
